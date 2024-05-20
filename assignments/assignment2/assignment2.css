@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+    text-align: center;
+    margin: 100px;
+    border: 50px;
+    font-family: cursive;
+}
+
+div {
+    margin: 10px;
+}
+
+section {
+    position: relative;
+    float:inline-start;
+    background-color: #999999;
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align:left;
+    margin-top: 50px;
+    height: 150px;
+    width: 500px;
+}
+#hi{
+    border:solid black;
+    height: 30px;
+    width: 145px;
+    background-color: #d59898;
+    text-align: center;
+}
+#sam{
+    border:solid black;
+    height: 30px;
+    width: 145px;
+    background-color:#aa3333;
+    text-align: center;
+}
+#how{
+    border:solid black;
+    height: 30px;
+    width: 145px;
+    background-color: #e5d198;
+    text-align: center;
+}
+
+h3 {
+    position: absolute;
+    top:0px;
+    bottom:0px;
+    left: 345px;    
+    margin:0;
+    border-style: dashed; 
+    height: 30px; 
+    
+    }
+
+article {
+    padding-top: 15px;
+}
+
+
+
+
